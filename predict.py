@@ -22,7 +22,6 @@ if __name__=='__main__':
 		# 1.3788,0.8985,0.8985,1.5141,1.0626,1.0786,50.7792,34.4852,30.2808,2.539,1.7243,1.514,0.2931,0.3054,0.2682,7.5649,4.7938,1.0861
  
 	vector = sys.argv[1]
-	
 	# convert to numpy array
 	vector = np.fromstring(vector, dtype=float, sep=',')
 	vector = np.expand_dims(vector, axis = 1)

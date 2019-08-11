@@ -1,0 +1,16 @@
+#CÔNG VIÊC:
+
+Kết nói phần lõi xử lý
+
+
+mean frequency, bi nang moi lech cao, nguoi bt thi nhu nhau
+velocity and distance
+
+
+grahp {
+    velocity, mean distance, total excursion
+    }
+
+
+
+    ghi, mno
